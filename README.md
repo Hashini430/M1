@@ -1,4 +1,4 @@
-name:m.sahithi
+NAME:HASHINI R
 # EX-01-Datatypes-Operators
 ## AIM:
 Write a C program to read 3 characters one by one and print the characters in a reverse order.
@@ -80,7 +80,7 @@ printf("%d is not a positive number.\n", A);
 return 0;
 }
 ```
-##output:
+# OUTPUT
 ![image](https://github.com/user-attachments/assets/3bd4f764-c1f7-4f10-9e47-ea9fd361bc0b)
 
 
